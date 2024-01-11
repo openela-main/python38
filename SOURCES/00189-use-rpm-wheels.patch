@@ -29,7 +29,7 @@ index b291e9a..798d0f4 100644
  __all__ = ["version", "bootstrap"]
  _PACKAGE_NAMES = ('setuptools', 'pip')
 -_SETUPTOOLS_VERSION = "56.0.0"
--_PIP_VERSION = "22.0.4"
+-_PIP_VERSION = "23.0.1"
 +
 +_WHEEL_DIR = "/usr/share/python38-wheels/"
 +
